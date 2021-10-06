@@ -11,7 +11,7 @@ const usuarios =[
 
 
 const msg =[
-    {id:0,msg:''}
+    {id:0,msg:'para ver se tem novas mensagens recarregue a pagina'}
 ]
 
 
